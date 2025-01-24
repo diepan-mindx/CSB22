@@ -6,7 +6,7 @@
 # print(params): in ra man hinh du lieu ghi trong (...)
 # print("Hello", "world", 3, 14.2, True)
 
-
+# diepan-mindx
 # variable --------------------------------
 # constant (hằng số)
 PI = 3.14
